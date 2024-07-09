@@ -2,7 +2,7 @@
   "manifest_version": 3,
   "name": "Cattify",
   "description": "Replaces every cat with a nice 🐈!",
-  "version": "1.0",
+  "version": "1.1",
   "icons": {
     "16": "images/16.png",
     "32": "images/32.png",
